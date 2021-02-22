@@ -1,8 +1,5 @@
-# Repository for Agara Bio Workshop 
-## Hidden Markov Models 
-## Part 1: December 6, 2020 
-## Part 2: February 7, 2021
-
+# Workshop on Hidden Markov Models  
+## Hosted by Agara Bio
 
 Welcome to our tutorial for developing and using a hidden Markov model (HMM)! Here, you'll find... 
 - The slides explaining a theory of HMMs, probability, the Markov assumption, and the major algorithms (HMM_week2.pdf) 
@@ -15,7 +12,7 @@ Welcome to our tutorial for developing and using a hidden Markov model (HMM)! He
 To access through Binder (which doesn't require any download of python or jupyter notebook), please click the Binder link. Note that if you refresh the page, your work will be lost; we recommend exporting your page if you wish to save it. 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scarioscia/hmm_workshop/HEAD)
 
-Thanks to Agara Bio, a community lab at Johns Hopkins, for organizing: https://www.agarabio.org/
+Thanks to Agara Bio, a community lab at Johns Hopkins, for organizing: https://www.agarabio.org/ and our lab for help and support https://mccoy-lab.org/
 
 Please reach out to us any time with questions or comments! 
 Sara Carioscia (saracarioscia@jhu.edu) 
