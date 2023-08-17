@@ -5,6 +5,12 @@ Welcome to our tutorial for developing and using a hidden Markov model (HMM)! Th
 These materials were developed jointly by [Sara Carioscia](https://scarioscia.github.io/) and [Dylan Taylor](https://dtaylo95.github.io/) as part of a workshop series organized by [Agara Bio](https://www.agarabio.org/), a community bio lab at Johns Hopkins.
 
 
+## Building your HMM 
+
+If you need an introduction or refresher to basic Python, start by launching the Intro to Python notebook. For a more detailed introduction, you can also check out two other notebooks we made for a similar purpose [here](https://github.com/dtaylo95/A-Computational-Approach-to-CRISPR-Reagent-Design/tree/main/intro_notebooks). 
+
+When you're ready, we suggest starting with the HMM Building notebook and working through it on your own. You can always refer to the "key" notebook in that same directory if you get stuck. 
+
 ## Using the Module 
 
 
@@ -20,13 +26,6 @@ To launch these resources in Google Colab (see notebook [here](https://github.co
 
 To access through Binder (which doesn't require any download of Python or jupyter notebook), please click the Binder link. Note that if you refresh the page, your work will be lost; we recommend exporting your page if you wish to save it. 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scarioscia/hmm_workshop/HEAD)
-
-
-## Building your HMM 
-
-If you need an introduction or refresher to basic Python, start by launching the Intro to Python notebook. For a more detailed introduction, you can also check out two other notebooks we made for a similar purpose [here](https://github.com/dtaylo95/A-Computational-Approach-to-CRISPR-Reagent-Design/tree/main/intro_notebooks). 
-
-When you're ready, we suggest starting with the HMM Building notebook and working through it on your own. You can always refer to the "key" notebook in that same directory if you get stuck. 
 
 
 ## Updating the Module  
