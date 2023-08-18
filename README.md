@@ -1,6 +1,6 @@
 # Coding a Hidden Markov Model in Python  
 
-Welcome to our tutorial for developing and using a hidden Markov model (HMM)! This repository offers a notebook to build your own HMM (along with an answer key), a quick intro to the relevant Python fundamentals, and all the training data you'll need for your model. It also includes slides exploring the basic topics covered (markov assumptions, conditional probabilities, uses of HMMs). 
+Welcome to our tutorial for developing and using a Hidden Markov model (HMM)! This repository offers a notebook to build your own HMM (along with an answer key), a quick intro to the relevant Python fundamentals, and all the training data you'll need for your model. It also includes slides exploring the basic topics covered (markov assumptions, conditional probabilities, uses of HMMs). 
 
 These materials were developed jointly by [Sara Carioscia](https://scarioscia.github.io/) and [Dylan Taylor](https://dtaylo95.github.io/) as part of a workshop series organized by [Agara Bio](https://www.agarabio.org/), a community bio lab at Johns Hopkins.
 
@@ -30,4 +30,4 @@ To access through Binder (which doesn't require any download of Python or jupyte
 
 ## Updating the Module  
 
-Feel free to use this if you have a group of students who might benefit - or if you're a curious biologist yourself! Reach out directly to Sara (saracarioscia@jhu.edu) or Dylan (dtaylo95@jhu.edu) if you have any questions or suggestions. If there's a feature or other update you'd like added, please submit an issue directly on GitHub. 
+Feel free to use this if you have a group of students who might benefit - or if you're a curious biologist yourself! Reach out directly to Sara (saracarioscia@jhu.edu) or Dylan (dtaylo95@jhu.edu) if you have any questions or suggestions. If there's a feature or other update you'd like added, please create an issue directly on GitHub. 
