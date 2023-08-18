@@ -30,4 +30,4 @@ To access through Binder (which doesn't require any download of Python or jupyte
 
 ## Updating the Module  
 
-Feel free to use this if you have a group of students who might benefit - or if you're a curious biologist yourself! Reach out directly to Sara (saracarioscia@jhu.edu) or Dylan (dtaylo95@jhu.edu) if you have any questions or suggestions. If there's a feature or other update you'd like added, please create an issue directly on GitHub. 
+Feel free to use this if you have a group of students who might benefit - or if you're a curious biologist yourself! Reach out to Sara (saracarioscia@jhu.edu) or Dylan (dtaylo95@jhu.edu) if you have any questions or suggestions. If there's a feature or other update you'd like added, please create an issue directly on GitHub. 
